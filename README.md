@@ -68,7 +68,7 @@ class { 'ansible::node' :
 }
 ```
 
-## Developpment
+## Development
 
 You're welcome to propose enhancements or submit bug reports (even typos).
 
